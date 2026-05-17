@@ -1,0 +1,21 @@
+# Core Dependencies
+streamlit>=1.28.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Image Processing
+Pillow>=9.0.0
+opencv-python>=4.8.0
+
+# Numerical & Scientific
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.0.0
+seaborn>=0.12.0
+
+# Optional: For advanced explainability
+captum>=0.6.0  # Facebook's interpretability library (optional, has many gradient-based methods)
