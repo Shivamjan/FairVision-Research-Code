@@ -31,6 +31,7 @@ CARE-Net is evaluated on **Fitzpatrick17k** and **DDI**, two benchmarks that exp
 
 ```
 FairVision-Research-Code/
+├── app_attention_visualization/   #Attention map visualization
 ├── pre-processings/         # Dataset loading, skin tone labeling, counterfactual augmentation
 ├── models/                  # CARE-Net architecture and training scripts
 ├── evaluations/             # Fairness metrics, result analysis, and visualization notebooks
